@@ -1,0 +1,4 @@
+<!--pages/particle/particle.wxml-->
+<view class="canvas">
+  <canvas canvas-id="firstCanvas">点我</canvas>
+</view>
